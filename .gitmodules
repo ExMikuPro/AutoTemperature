@@ -1,3 +1,6 @@
 [submodule "lib/ESP8266wifi"]
 	path = lib/ESP8266wifi
 	url = git@github.com:ekstrand/ESP8266wifi.git
+[submodule "lib/DHT11"]
+	path = lib/DHT11
+	url = git@github.com:dhrubasaha08/DHT11.git
